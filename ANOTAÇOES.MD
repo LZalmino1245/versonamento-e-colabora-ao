@@ -1,11 +1,7 @@
 Repositório
 É a pasta do projeto.
-
-
 commit
 È um grupo de alterações no código
-
-
 Branch
 
 São ramificações do projeto, serve para separa grandes
@@ -45,3 +41,7 @@ titulo "Minhas anotações.
 7- faça o pull, abra o arquivo "anotações.txt" no repositório local.
 
 8- Crie a branch " Desenvolvendo" no repositório local.
+9- No Github desktop selecione a branch " no repositório local.
+10- edite o arquivo " anotações.md e antes de cada subtitulo adicione
+##, slve e suba as alterações para o repositório remoto
+11-Faça o commit e push do arquivo 
