@@ -44,4 +44,4 @@ titulo "Minhas anotações.
 9- No Github desktop selecione a branch " no repositório local.
 10- edite o arquivo " anotações.md e antes de cada subtitulo adicione
 ##, slve e suba as alterações para o repositório remoto
-11-Faça o commit e push do arquivo 
+11-Faça o commit e push do arquivo"anotações.md" 
