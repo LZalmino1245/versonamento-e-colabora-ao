@@ -11,8 +11,6 @@ Branch
 São ramificações do projeto, serve para separa grandes
 modificações e  evitam criar problemas no código principal.
 
-
-
 Merge
 
 União de duas branches
@@ -27,8 +25,6 @@ então é pedido a permissão para atualizar as alterações online.
 Pull
 
 É a atualizaçÕ do repositório online.
-
-
 Fork
 È como um clone, porém dentro do github. isso quer dizer que o 
 repositór não vai ser baixado paea o seu computador, mas será 
@@ -47,3 +43,5 @@ ao qual voçê quer contribuir adicionando suas modificações ao peojeto oficial.
 titulo "Minhas anotações.
 
 7- faça o pull, abra o arquivo "anotações.txt" no repositório local.
+
+8- Crie a branch " Desenvolvendo" no repositório local.
